@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack applications**
 
-- 💬 Ask me about **Anything tech related**
+- 💬 Ask me about **anything tech related**
 
 - 📫 Write to me on **hellonidalsj@gmail.com**
 

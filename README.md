@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nidal SJ</h1>
 <h3 align="center">A passionate Python Full-stack Developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
+<img align="right" alt="coding" width="400" src="https://www.hellocatfood.com/wp-content/uploads/2020/09/september_3.gif" >
 
 - 🌱 I’m proficient in **Django and Angular frameworks**
 

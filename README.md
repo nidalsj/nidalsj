@@ -1,16 +1,16 @@
 <h1 align="center">Hello there 👋 I'm Nidal SJ</h1>
 <h3 align="center">A passionate Python Full-stack Developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" >
+<img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/coder-3462295-2895977.png" >
 
-- ✅ I’m proficient in **Django and Angular frameworks**
+✅ I’m proficient in **Django and Angular frameworks**
 
-- 👯 Looking to collaborate on **Full stack applications**
+👯 Looking to collaborate on **Full stack applications**
 
-- 💬 Ask me about **anything tech related**
+💬 Ask me about **anything tech related**
 
-- 📫 Feel free to reach out **connectnidalsj@gmail.com**
+📫 Feel free to reach out **connectnidalsj@gmail.com**
 
-- ⚡ **Where imagination meets execution**
+⚡ **Where imagination meets execution**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

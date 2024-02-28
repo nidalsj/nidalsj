@@ -9,6 +9,6 @@ Let's build something amazing together!
 
 
 
-<h3 align="left">Technologies I use</h3>
+<h3 align="left">Tech Stack</h3>
 <p align="left"> <img src="https://skillicons.dev/icons?i=py,js,django,angular,html,css,bootstrap" /> </p> 
 <p align="left"> <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,postman,vscode,aws" /> </p>

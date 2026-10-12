@@ -1,5 +1,3 @@
-# Hey there, this is Nidal 👋
-
 <img align="right" src="assets/techie.png" alt="Techie" width="150" height="150" />
 
 I'm a **Software Engineer focused on Odoo ERP and Python web development**.
